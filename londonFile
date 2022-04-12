@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 new file in new branch
 <<<<<<< HEAD
 Branch has been update fro ireland as wellllllll.
@@ -5,4 +6,7 @@ Branch has been update fro ireland as wellllllll.
 new Data from London
 >>>>>>> b58272f53cfc36fcbbc81d77ae06315609036c48
 ireland
+=======
+>>>>>>> 4ff20ea64b2d93540ea1217b285c06ba85e2cf30
+New data from ireland for conflict
 
